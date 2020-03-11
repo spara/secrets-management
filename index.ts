@@ -110,7 +110,7 @@ const buildProject = new aws.codebuild.Project("aws-codebuild", {
   serviceRole: builderRole.arn,
   source: {
     type: "GITHUB",
-    location: "https://github.com/spara/aws-codebuild.git"
+    location: "https://github.com/spara/secrets-management"
   },
   environment: {
     type: "LINUX_CONTAINER",

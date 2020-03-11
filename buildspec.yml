@@ -13,6 +13,4 @@ phases:
       - pulumi login --non-interactive
   build:
     commands:
-      - pulumi stack select dev
-      - export PULUMI_CONFIG_PASSPHRASE="pulumi"
-      - pulumi up --yes
+      - pulumi up --non-interactive
