@@ -1,4 +1,0 @@
-secretsprovider: awskms://alias/cicd?region=us-west-2
-encryptedkey: AQICAHgB1P4g5wEdBG+FAlQP1kzkw1PM5XbXD4cgns0RBF35fQEElobn5WZUxpcz58g4lYEiAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMIHbhfeXQIaqezNC4AgEQgDttfVuhA0TroJcu4rC3rLY9HX4ERCwliVwejZHfrWut/+hCBhK7ROHegGsPjDqo+cTy0t9vl77gwfw4CA==
-config:
-  aws:region: us-west-2
