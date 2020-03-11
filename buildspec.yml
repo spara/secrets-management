@@ -14,4 +14,4 @@ phases:
   build:
     commands:
       - pulumi stack select secrets
-      - pulumi up --non-interactive
+      - pulumi up --yes
