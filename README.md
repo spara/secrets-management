@@ -1,1 +1,1 @@
-secret secret
+I've got a secret
